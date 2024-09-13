@@ -5,6 +5,7 @@ local colors = {
   line_no="#30414c",
   alt_bg = "#0e060c",
   cursor_fg = "#db0000",
+  function_ ="##4a858c",
   cursor_bg = "#0a0000",
   dark = "#360808",
   accent = "#ee52c7",

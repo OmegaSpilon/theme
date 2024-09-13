@@ -325,8 +325,8 @@ theme.set_highlights = function()
   hl(0, "BufferInactiveTarget", { fg = c.red, bg = c.alt_bg, bold=true, })
 
   -- StatusLine
-  hl(0, "StatusLine", { fg = c.line, bg = c.white })
-  hl(0, "StatusLineNC", { fg = c.line, bg = c.white })
+  hl(0, "StatusLine", { fg = c.line, bg = c.grey })
+  hl(0, "StatusLineNC", { fg = c.line, bg = c.grey })
   hl(0, "StatusLineSeparator", { fg = c.line, bg = 'NONE' })
   hl(0, "StatusLineTerm", { fg = c.line, bg = 'NONE' })
   hl(0, "StatusLineTermNC", { fg = c.line, bg = 'NONE' })

@@ -1,5 +1,5 @@
 local colors = {
-  fg = "#585858",
+  fg = "#93a1a1",
   bg = "#141c21",
   neontitle="#0033FF",
   comment="#8DA29E",

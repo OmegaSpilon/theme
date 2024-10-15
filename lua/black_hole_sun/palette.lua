@@ -1,10 +1,10 @@
 local colors = {
-  fg = "#93a1a1",
+  fg = "#afbfbf",
   bg = "#141c21",
   neontitle="#0033FF",
   comment="#8DA29E",
   alt_fg = "#a9a9a9",
-  line_no="#afbfbf",
+  line_no="#93a1a1",
   alt_bg = "#5c839b",
   cursor_fg = "#a9a9a9",
   function_ ="#5858e8",
